@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500">
+  <!-- Water Drop Logo -->
+  <g transform="translate(0,0)">
+    <!-- Gray Drop -->
+    <path d="M200 50 Q300 150 300 250 A100 100 0 1 1 100 250 Q100 150 200 50" fill="#4B5563"/>
+    <!-- Cyan Drop -->
+    <path d="M220 70 Q320 170 320 270 A100 100 0 1 1 120 270 Q120 170 220 70" fill="#06B6D4"/>
+    <!-- Wave -->
+    <path d="M50 350 Q150 300 250 350 T450 350" fill="none" stroke="#06B6D4" stroke-width="20"/>
+  </g>
+  <!-- LIHSI Text -->
+  <text x="50%" y="450" text-anchor="middle" font-family="Arial Black" font-size="80" fill="#BE123C">LIHSI</text>
+</svg>
